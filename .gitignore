@@ -4,6 +4,7 @@
 .gitconfig
 .idea
 node_modules
+typings
 .settings
 *.log
 build
