@@ -1,0 +1,870 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"report",
+				"reportFunction"
+			],
+			[
+				"file",
+				"fileFailures"
+			],
+			[
+				"development",
+				"developmentMode"
+			],
+			[
+				"dee",
+				"developmentOnly"
+			],
+			[
+				"developm",
+				"developmentMode"
+			],
+			[
+				"to",
+				"toastrSpies"
+			],
+			[
+				"log",
+				"logSpy"
+			],
+			[
+				"co",
+				"configureExceptionHandler"
+			],
+			[
+				"ehp",
+				"ExceptionHandlerProvider"
+			],
+			[
+				"logger",
+				"loggerService"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"get",
+				"getState"
+			],
+			[
+				"$roo",
+				"$rootScope	AngularJS"
+			],
+			[
+				"sta",
+				"stateCounts"
+			],
+			[
+				"is",
+				"isCurrentRoute"
+			],
+			[
+				"rh",
+				"routerHelper"
+			],
+			[
+				"nav",
+				"navRoutes"
+			],
+			[
+				"mock",
+				"mockState"
+			],
+			[
+				"route",
+				"routerHelper"
+			],
+			[
+				"con",
+				"configureStates"
+			],
+			[
+				"karma",
+				"karma-chai"
+			],
+			[
+				"use",
+				"userFactory"
+			],
+			[
+				"Navbar",
+				"NavbarController"
+			],
+			[
+				"status",
+				"statusText"
+			],
+			[
+				"cc",
+				"colorClasses"
+			],
+			[
+				"create",
+				"createReadStream"
+			],
+			[
+				"$htt",
+				"$http	AngularJS"
+			],
+			[
+				"bac",
+				"backendConfig"
+			],
+			[
+				"filter",
+				"filterTopLevelItems"
+			],
+			[
+				"fil",
+				"filterNavRoutes"
+			],
+			[
+				"sort",
+				"sortRoutes"
+			],
+			[
+				"ng-bin",
+				"ng-bind-html	AngularJS"
+			],
+			[
+				"serve",
+				"serverConfig"
+			],
+			[
+				"serv",
+				"serverConfig"
+			],
+			[
+				"task",
+				"taskListing"
+			],
+			[
+				"output",
+				"outputFile"
+			],
+			[
+				"open",
+				"openEditor"
+			],
+			[
+				"edit",
+				"editForm"
+			],
+			[
+				"tasks",
+				"tasksPage"
+			],
+			[
+				"spec",
+				"specHelper"
+			],
+			[
+				"rest",
+				"restService"
+			],
+			[
+				"$htp",
+				"$httpBackend	AngularJS"
+			],
+			[
+				"before",
+				"beforeEach"
+			],
+			[
+				"getMoc",
+				"getMockRest"
+			],
+			[
+				"$http",
+				"$httpBackend	AngularJS"
+			],
+			[
+				"res",
+				"restURI"
+			],
+			[
+				"toBe",
+				"toBeFalsy"
+			],
+			[
+				"tobe",
+				"toBeDefined"
+			],
+			[
+				"toBE",
+				"toBeDefined"
+			],
+			[
+				"new",
+				"newTask"
+			],
+			[
+				"end",
+				"endDate"
+			],
+			[
+				"en",
+				"environment"
+			],
+			[
+				"name",
+				"nameInput"
+			],
+			[
+				"e",
+				"element"
+			],
+			[
+				"Ha",
+				"hasClass"
+			],
+			[
+				"prior",
+				"priorityInput"
+			],
+			[
+				"defer",
+				"deferred"
+			],
+			[
+				"ele",
+				"elements"
+			],
+			[
+				"order",
+				"orderByPriorityBtn"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"$root",
+				"$rootScope	AngularJS(DI)"
+			],
+			[
+				"pr",
+				"priority"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"stor",
+				"storage"
+			],
+			[
+				"object",
+				"objectToStore"
+			],
+			[
+				"stora",
+				"storageKey"
+			],
+			[
+				"test",
+				"testKey"
+			],
+			[
+				"local",
+				"localStorage"
+			],
+			[
+				"sto",
+				"storageKey"
+			],
+			[
+				"value",
+				"valueToStore"
+			],
+			[
+				"storage",
+				"storageService"
+			],
+			[
+				"ng-s",
+				"ng-show	AngularJS"
+			],
+			[
+				"setTask",
+				"setTaskCompleted"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"di",
+				"div	Tag"
+			],
+			[
+				"rg",
+				"rgba(r,g,b,a)"
+			],
+			[
+				"ng-op",
+				"ng-options	AngularJS"
+			],
+			[
+				"ng",
+				"ng-hide	AngularJS"
+			],
+			[
+				"re",
+				"refreshTasks"
+			],
+			[
+				"toggle",
+				"toggleCompletedFilter"
+			],
+			[
+				"ta",
+				"TasksController"
+			],
+			[
+				"set",
+				"setItem"
+			],
+			[
+				"Test",
+				"TestComponentController"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 490.0,
+		"last_filter": "packa",
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add All"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"git pus",
+				"Git: Push"
+			],
+			[
+				"git ame",
+				"Git: Amend Commit"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"git tatu",
+				"Git: Status"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git statu",
+				"Git: Status"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git ad",
+				"Git: Add All"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"git commi",
+				"Git: Commit"
+			],
+			[
+				"git am",
+				"Git: Amend Commit"
+			],
+			[
+				"git s",
+				"Git: Status"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"html",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"git push cu",
+				"Git: Push Current Branch"
+			],
+			[
+				"jshint",
+				"JSHint: Set Plugin Options"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"g pus",
+				"Git: Push"
+			],
+			[
+				"g c",
+				"Git: Commit"
+			],
+			[
+				"git  co",
+				"Git: Commit"
+			],
+			[
+				"git remo",
+				"Git: Track Remote Branch"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"git lo",
+				"Git: Log All"
+			],
+			[
+				"git ",
+				"Git: Push"
+			],
+			[
+				"git c",
+				"Git: Commit"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"git",
+				"Git: Init"
+			],
+			[
+				"less",
+				"Set Syntax: LESS"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 648.0
+	},
+	"console":
+	{
+		"height": 162.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/bench/ng2-quickstart"
+	],
+	"file_history":
+	[
+		"/C/bench/ng2-quickstart/tsconfig.json",
+		"/C/bench/ng2-quickstart/package.json",
+		"/C/bench/mean-uui/src/client/index.html",
+		"/C/bench/out-of-office-activities/.jshintrc",
+		"/C/bench/out-of-office-activities/gulp/clean.js",
+		"/C/bench/out-of-office-activities/client/index.html",
+		"/C/bench/out-of-office-activities/out-of-office-activities.sublime-project",
+		"/C/bench/react-getting-started-pluralsight/.gitignore",
+		"/C/bench/react-getting-started-pluralsight/.gitconfig",
+		"/C/bench/react-getting-started-pluralsight/src/client/app/index.jsx",
+		"/C/bench/react-getting-started-pluralsight/webpack.config.js",
+		"/C/bench/out-of-office-activities/webpack.config.js",
+		"/C/bench/out-of-office-activities/.gitignore",
+		"/C/bench/out-of-office-activities/gulp/lint-html.js",
+		"/C/bench/out-of-office-activities/.htmlhintrc",
+		"/C/bench/out-of-office-activities/client/app/components/style-guide/style-guide.less",
+		"/C/bench/out-of-office-activities/client/app/components/style-guide/style-guide.html",
+		"/C/bench/out-of-office-activities/karma.conf.js",
+		"/C/bench/out-of-office-activities/protractor.conf.js",
+		"/C/bench/out-of-office-activities/.babelrc",
+		"/C/bench/out-of-office-activities/.htmllintrc",
+		"/C/bench/out-of-office-activities/html-angular-validate-report.json",
+		"/C/bench/out-of-office-activities/client/app/common/uui/uui.js",
+		"/C/bench/out-of-office-activities/client/app/app.js",
+		"/C/bench/out-of-office-activities/client/app/components/calendar/calendar.route.js",
+		"/C/bench/out-of-office-activities/client/app/common/autoconstants/autoconstants.js",
+		"/C/bench/out-of-office-activities/client/app/components/style-guide/style-guide.route.js",
+		"/C/bench/out-of-office-activities/gulp/ng-config.js",
+		"/C/bench/out-of-office-activities/client/app/common/main-menu/main-menu.js",
+		"/C/bench/out-of-office-activities/client/app/common/common.js",
+		"/C/bench/out-of-office-activities/server/app.js",
+		"/C/bench/out-of-office-activities/client/app/common/config/config.js",
+		"/C/bench/out-of-office-activities/client/app/common/config/config.autoconstants.js",
+		"/C/bench/out-of-office-activities/client/app/components/style-guide/style-guide.js",
+		"/C/bench/out-of-office-activities/client/app/common/router-helper/router-helper.provider.js",
+		"/C/bench/out-of-office-activities/client/app/common/router-helper/router-helper.js",
+		"/C/bench/out-of-office-activities/client/app/components/style-guide/style-guide.controller.js",
+		"/C/bench/out-of-office-activities/client/app/common/main-menu/main-menu.controller.js",
+		"/C/bench/out-of-office-activities/client/app/components/components.js",
+		"/C/bench/out-of-office-activities/gulp/test-unit.js",
+		"/C/bench/out-of-office-activities/client/app/common/nested-menu/nested-menu.js",
+		"/C/bench/out-of-office-activities/client/app/components/header/header.html",
+		"/C/bench/out-of-office-activities/client/app/common/main-menu/main-menu.html",
+		"/C/bench/out-of-office-activities/client/app/components/calendar/calendar.js",
+		"/C/bench/out-of-office-activities/client/app/app.less",
+		"/C/bench/out-of-office-activities/client/app/common/main-menu/main-menu.component.js",
+		"/C/bench/out-of-office-activities/client/app/components/header/header.js",
+		"/C/bench/out-of-office-activities/client/app/components/style-guide/style-guide.component.js",
+		"/C/bench/out-of-office-activities/client/app/app.html",
+		"/C/bench/out-of-office-activities/client/app/common/navbar/navbar.js",
+		"/C/bench/out-of-office-activities/node_modules/epam-uui/css/uui-all.css",
+		"/C/bench/out-of-office-activities/client/app/components/header/header.component.js",
+		"/C/bench/out-of-office-activities/client/app/common/nested-menu/nested-menu.controller.js",
+		"/C/bench/out-of-office-activities/client/app/common/nested-menu/nested-menu.component.js",
+		"/C/bench/out-of-office-activities/client/app/components/header/header.controller.js",
+		"/C/bench/out-of-office-activities/client/app/common/nested-menu/nested-menu.html",
+		"/C/bench/out-of-office-activities/client/app/common/main-menu/main-menu.spec.js",
+		"/C/bench/mean-uui/src/client/app/dashboard/dashboard.route.js",
+		"/C/bench/out-of-office-activities/package.json",
+		"/C/bench/out-of-office-activities/client/app/components/footer/footer.spec.js",
+		"/C/bench/out-of-office-activities/client/app/components/footer/footer.html",
+		"/C/bench/out-of-office-activities/client/app/components/header/header.spec.js",
+		"/C/bench/out-of-office-activities/report.xml",
+		"/C/bench/out-of-office-activities/gulp/lint.js",
+		"/C/bench/out-of-office-activities/.lesshintrc",
+		"/C/bench/out-of-office-activities/client/app/common/common.less",
+		"/C/bench/out-of-office-activities/lesshint/reporters/fail.js",
+		"/C/bench/out-of-office-activities/gulp/backend-watch.js",
+		"/C/bench/out-of-office-activities/gulp/lint-styles.js",
+		"/C/Users/Marcin_Zolkiewski/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/C/bench/out-of-office-activities/karma.conf.babel.js",
+		"/C/bench/out-of-office-activities/gulp/serve.js",
+		"/C/bench/out-of-office-activities/server/controllers/events.controller.js",
+		"/C/bench/out-of-office-activities/e2e/auth.spec.js",
+		"/C/bench/out-of-office-activities/gulp/lint-scripts.js",
+		"/C/bench/out-of-office-activities/client/app/common/navbar/navbar.component.js",
+		"/C/bench/out-of-office-activities/gulp/config.js",
+		"/C/bench/out-of-office-activities/client/app/common/navbar/navbar.controller.js",
+		"/C/bench/wtf/yusomean/server.js",
+		"/C/bench/wtf/yusomean/package.json",
+		"/C/bench/out-of-office-activities/gulp/webpack.js",
+		"/C/bench/out-of-office-activities/server/controllers/categories.spec.js",
+		"/C/bench/out-of-office-activities/server/controllers/categories.controller.js",
+		"/C/bench/out-of-office-activities/gulp/test-e2e.js",
+		"/C/bench/out-of-office-activities/gulp/test.js",
+		"/C/bench/out-of-office-activities/server/config/base.js",
+		"/C/bench/out-of-office-activities/server/config/build.js",
+		"/C/bench/out-of-office-activities/gulpfile.babel.js",
+		"/C/bench/out-of-office-activities/gulp/set-env.js",
+		"/C/bench/out-of-office-activities/server/config/dev.js",
+		"/C/bench/out-of-office-activities/server/config/test.js",
+		"/C/bench/out-of-office-activities/gulp/set-env",
+		"/C/bench/out-of-office-activities/server/config/index.js",
+		"/C/bench/out-of-office-activities/server/config.js",
+		"/C/bench/out-of-office-activities/gulp/backend-test.js",
+		"/C/mongodb/mongod.cfg",
+		"/C/bench/out-of-office-activities/server/models/category.spec.js",
+		"/C/bench/out-of-office-activities/server/controllers/events.spec.js",
+		"/C/bench/out-of-office-activities/protractor.conf.babel.js",
+		"/C/bench/out-of-office-activities/gulp/backend-build.js",
+		"/C/bench/out-of-office-activities/gulp/build.js",
+		"/C/bench/out-of-office-activities/gulp/lesslint.js",
+		"/C/bench/out-of-office-activities/webpack.dist.config.js",
+		"/C/bench/out-of-office-activities/client/app/common/exception-handler/config.js",
+		"/C/bench/out-of-office-activities/config/config.js",
+		"/C/bench/out-of-office-activities/client/app/common/logger/logger.spec.js",
+		"/C/bench/out-of-office-activities/client/app/common/exception-handler/exception-handler.spec.js",
+		"/C/bench/out-of-office-activities/client/app/common/logger/logger.service.js",
+		"/C/bench/out-of-office-activities/client/app/common/exception-handler/exception-handler.config.js",
+		"/C/bench/out-of-office-activities/client/app/app.component.js",
+		"/C/bench/out-of-office-activities/client/app/common/exception-handler/exception-handler.provider.js",
+		"/C/bench/mean-uui/src/client/app/blocks/exception/exception-handler.provider.js",
+		"/C/bench/mean-uui/src/client/app/blocks/exception/exception.module.js",
+		"/C/bench/mean-uui/src/client/app/blocks/logger/logger.module.js",
+		"/C/bench/mean-uui/src/client/app/blocks/logger/logger.js",
+		"/C/bench/mean-uui/src/client/app/core/config.js",
+		"/C/bench/out-of-office-activities/client/app/common/logger/logger.config.js",
+		"/C/bench/out-of-office-activities/client/app/common/hero/hero.controller.js",
+		"/C/bench/out-of-office-activities/client/app/common/exception-handler/exception-handler.js",
+		"/C/bench/out-of-office-activities/client/app/app.controller.js",
+		"/C/bench/mean-uui/src/client/app/blocks/exception/exception-handler.provider.spec.js",
+		"/C/bench/out-of-office-activities/client/app/common/logger/logger.js",
+		"/C/bench/out-of-office-activities/client/app/common/app.controller.js",
+		"/C/bench/out-of-office-activities/client/app/components/dashboard/dashboard.html",
+		"/C/bench/out-of-office-activities/client/app/components/dashboard/dashboard.less",
+		"/C/bench/out-of-office-activities/client/app/services/event/event.service.js",
+		"/C/bench/out-of-office-activities/node_modules/moment/moment.js",
+		"/C/bench/out-of-office-activities/node_modules/moment/package.json"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+			"C:\\bench\\out-of-office-activities\\client",
+			"C:\\bench\\out-of-office-activities\\gulp",
+			"C:\\bench\\out-of-office-activities\\client",
+			"C:\\bench\\mean-uui\\src\\client\\app",
+			"C:\\bench\\mean-uui\\gulpfile.babel.js",
+			"<current file>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"navbar-nav",
+			"nav",
+			"navbar",
+			"navbar-nav",
+			"navabar-nav",
+			"console.log",
+			"webpack.dist.config",
+			"webpack.dev.config",
+			"brand-logo",
+			");\n",
+			"var ",
+			".violet",
+			"fuchsia",
+			"red",
+			"jquery-mousewheel",
+			"mCSB_buttons.png",
+			"photos",
+			"function($stateProvider, $urlRouterProvider)",
+			"express",
+			"/******/",
+			"dashboardco",
+			"lmao",
+			"dashboardcon",
+			"dashboardcontro",
+			"require",
+			"jquery",
+			"$",
+			"optimize",
+			"build",
+			"mainbar",
+			"inject",
+			"build",
+			"shuffle-animation",
+			"yargs",
+			"serve",
+			"changeEvent",
+			"startBrowserSync",
+			"getNodeOptions",
+			"browserSyncReload",
+			"orderSrc",
+			"inject",
+			"formatPercent",
+			"bytediffFormatter",
+			"clean",
+			"del",
+			"clean",
+			"bower",
+			"\\t",
+			"test",
+			"defa",
+			"test",
+			"server",
+			"browser",
+			"console",
+			"    ",
+			"test",
+			"mao",
+			"templatecache",
+			"light"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"let ",
+			"  ",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 130.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 115.0
+	},
+	"pinned_build_system": "",
+	"project": "ng2-quickstart.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 444.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
