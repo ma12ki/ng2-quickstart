@@ -9,6 +9,10 @@ typings
 *.log
 build
 
+# tsc-generated files
+app/**/*.js
+app/**/*.js.map
+
 # sublime
 *.sublime-project
 *.sublime-workspace
